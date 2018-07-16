@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hongyuXie/MyResume_CN.git"
+    "url": "git+https://github.com/Thea0529/Resume_CN.git"
   },
   "keywords": [
     "resume"
@@ -16,9 +16,9 @@
   "author": "DIYgod",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hongyuXie/MyResume_CN/blob/master/README.md"
+    "url": "https://github.com/Thea0529/Resume_CN/blob/master/README.md"
   },
-  "homepage": "https://hongyuxie.github.io/MyResume_CN/#readme",
+  "homepage": "https://thea0529.github.io/Resume_CN/",
   "devDependencies": {
     "browser-sync": "^2.10.0",
     "gulp": "^3.9.0",
